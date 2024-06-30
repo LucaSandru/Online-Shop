@@ -60,25 +60,25 @@ shop.exe
 - This command is the simplest way to run the program - like in console of *CLion* or *VSC*
 - But, the application supports several command-line arguments for different operations:
   
-  1. View the list of products
+1. View the list of products
  
 ```sh
 shop.exe view-products
 ```
 
-  2. Add a new product
+2. Add a new product
 
 ```sh
 shop.exe add-product
 ```
 
-  3. Add a product to the cart
+3. Add a product to the cart
 
 ```sh
 shop.exe add-to-cart <product_id> <quantity>
 ```
 
-  4. Search for products
+4. Search for products
 
 ```sh
 shop.exe search
@@ -86,4 +86,4 @@ shop.exe search
 
 ### Conclusion
 
-After running the application, the specific files [products.txt](Online Shop/products.txt) and [cart.txt](Online Shop/cart.txt) will be updated by user commands.
+After running the application, the specific files [products.txt](https://github.com/LucaSandru/Online-Shop/blob/main/Online%20Shop/products.txt) and [cart.txt](https://github.com/LucaSandru/Online-Shop/blob/main/Online%20Shop/cart.txt) will be updated by user commands.
