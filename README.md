@@ -83,3 +83,7 @@ shop.exe add-to-cart <product_id> <quantity>
 ```sh
 shop.exe search
 ```
+
+### Conclusion
+
+After running the application, the specific files [products.txt](Online Shop/products.txt) and [cart.txt](Online Shop/cart.txt) will be updated by user commands.
