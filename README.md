@@ -59,7 +59,7 @@ shop.exe
 ```
 - This command is the simplest way to run the program - like in console of *CLion* or *VSC*
 - But, the application supports several command-line arguments for different operations:
-  1.  View the list of products
+  1. View the list of products
  
 ```sh
 shop.exe view-products
