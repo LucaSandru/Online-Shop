@@ -10,7 +10,6 @@ Welcome to Luca's Online Shop, a console-based application that allows users to 
 - Add products to the cart
 - Search products by name and/or price range
 - View and manage the cart
-- cart management
 
 ## Project Structure
 
