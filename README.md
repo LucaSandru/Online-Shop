@@ -28,14 +28,57 @@ The project is divided into multiple source files:
 
 ## Getting Started
 
-### Prerequisites
+### What you need
 
 - A C compiler (e.g., GCC)
-- A development environment (e.g., CLion, Visual Studio Code)
+- A development environment (e.g., CLion, Visual Studio Code) - e.g. I worked in *CLion*
+
+
+### Open User-Terminal
+
+Depends if you have Microsoft, Linux or macOS, you need to open your by-default terminal and access the whole project (copy and paste the correct path). In **Windows**, by using *Command Prompt*, is the following:
+
+```sh
+cd <your correct path>
+```
 
 ### Compilation
 
-Compile the project using the following commands:
+Compile the project using the following command:
 
 ```sh
 gcc -o shop main.c product.c cart.c
+```
+
+### Running the Application
+
+You can run the application using the following command:
+
+```sh
+shop.exe
+```
+- This command is the simplest way to run the program - like in console of *CLion* or *VSC*
+- But, the application supports several command-line arguments for different operations:
+  1.  View the list of products
+ 
+```sh
+shop.exe view-products
+```
+
+  2. Add a new product
+
+```sh
+shop.exe add-product
+```
+
+  3. Add a product to the cart
+
+```sh
+shop.exe add-to-cart <product_id> <quantity>
+```
+
+  4. Search for products
+
+```sh
+shop.exe search
+```
