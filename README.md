@@ -1,15 +1,16 @@
 # Luca's Online Shop
 
-Welcome to Luca's Online Shop, a console-based application that allows users to view products, add products to the cart, search for products, and manage their shopping cart. This project demonstrates basic file I/O, user input handling, and a simple text-based user interface.
+Welcome to Luca's Online Shop, a console-based application that allows users to view products, add products to the cart, search for products, and manage their shopping cart.
 
 ## Features
 
+- Work in terminal (as user)
 - View a list of products
 - Add new products
 - Add products to the cart
 - Search products by name and/or price range
 - View and manage the cart
-- User login and cart management
+- cart management
 
 ## Project Structure
 
