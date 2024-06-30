@@ -1,0 +1,5 @@
+These are your cart items, dear luca
+4|Headphones|149.99|4
+0|Jeans|29.99|5
+
+This is the checkout, dear luca. You want to have the copy of the bills on j@gmail.com?

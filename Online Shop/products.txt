@@ -1,0 +1,59 @@
+0|Jeans|Classic blue denim jeans|29.99|17
+1|Sneakers|Casual black sneakers |39.99|14
+2|Backpack|Durable blue backpack |49.99|12
+3|Headphones|High experience audio|149.99|84
+4|Smartphone|Best camera ever created|499.99|35
+5|Jeans|Slim fit jeans modern cut|34.99|15
+6|Sneakers|Lightweight running sneakers|44.99|20
+7|Backpack|Have multiple compartiments|54.99|18
+8|Headphones|Wireless and bluetooth|159.99|30
+9|Smartphone|OLED display and 256 GB|599.99|25
+10|Laptop|Thin laptop with 8GB RAM|799.99|10
+11|Tablet|tablet with long battery life|279.99|40
+12|Smartwatch|Smartwatch with clear GPS|219.99|30
+13|Gaming Console|PS4, 500GB storage|449.99|15
+14|Bluetooth Speaker|360-degree best sound|69.99|60
+15|Wireless Mouse|silent click and compact|24.99|90
+16|Keyboard|Wireless keyboard, touchpad|79.99|35
+17|Monitor|144Hz refresh rate monitor|349.99|25
+18|Hard Drive|Portable SSD with 1TB storage|99.99|50
+19|Router|Router with parental controls|69.99|35
+20|Camera|Camera with 4K video record|649.99|20
+21|Printer|Compact laser printer, Wi-Fi|139.99|45
+22|Fitness Tracker|Blood oxygen monitoring|59.99|55
+23|VR Headset|With built-in headphones|319.99|22
+24|Electric Kettle|Easy to use anywhere|49.99|80
+25|Blender|Multiple speed settings|99.99|40
+26|Jeans|Straight leg jeans skinny|39.99|12
+27|Sneakers|High-top sneakers|49.99|18
+28|Backpack|Travel backpack big one|59.99|14
+29|Headphones|Noise-cancelling in-ear|169.99|28
+30|Smartphone|Smartphone with dual SIM|549.99|22
+31|Laptop|Gaming laptop with GPU|999.99|12
+32|Tablet|Tablet with stylus support|319.99|35
+33|Smartwatch|Smartwatch with music storage|239.99|25
+34|Gaming Console|Gaming console,VR support|479.99|18
+35|Bluetooth Speaker|Waterproof speaker|89.99|50
+36|Fridge|Energy-efficient fridge|699.99|10
+37|Dress|Elegant evening gown|129.99|15
+38|Bed|Queen size bed-memory foam|499.99|8
+39|Blender|Blender for smoothies|79.99|20
+40|Fridge|Single door fridge|399.99|12
+41|Dress|Summer dress with floral|49.99|25
+42|Bed|King size bed 2 pers|599.99|5
+43|Toaster|4-slice toaster|39.99|30
+44|Fridge|Mini fridge for daily|199.99|18
+45|Dress|Casual dress with pockets|59.99|22
+46|Bed|Twin bed-storage drawers|399.99|10
+47|Air Purifier|Air purifier technology|149.99|20
+48|Dress|Formal dress-lace details|89.99|12
+49|Microwave|Countertop microwave|129.99|25
+50|Fan|Oscillating tower fan|69.99|40
+51|Vacuum Cleaner|Cordless vacuum cleaner|199.99|15
+52|Dress|Cocktail dress with sequins|79.99|18
+53|Bed|Bunk bed with ladder|499.99|6
+54|Headphones|Gaming headphones for PUBG|79.99|30
+55|Water Bottle|Insulated water bottle|19.99|50
+
+
+
