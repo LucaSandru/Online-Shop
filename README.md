@@ -38,4 +38,4 @@ The project is divided into multiple source files:
 Compile the project using the following commands:
 
 ```sh
-gcc -o shop main.c product.c cart.c utils.c user.c
+gcc -o shop main.c product.c cart.c
