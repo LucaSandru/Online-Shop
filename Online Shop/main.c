@@ -1,7 +1,7 @@
 #include "shop.h"
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h> // Add this line
+#include <string.h>
 
 
 void printUsage() {
@@ -19,8 +19,8 @@ void handleCommandLineArguments(int argc, char *argv[]) {
         return;
     }
 
-    loadProductsFromFile(); // Ensure products are loaded before any operation
-    loadCartFromFile(); // Ensure cart is loaded before any operation
+    loadProductsFromFile(); 
+    loadCartFromFile(); 
 
     if (strcmp(argv[1], "view-products") == 0) {
         seeProducts();
