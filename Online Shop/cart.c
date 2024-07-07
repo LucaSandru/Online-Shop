@@ -28,7 +28,7 @@ void loadCartFromFile() {
         return;
     }
 
-    numItemsInCart = 0; // Reset cart before loading
+    numItemsInCart = 0;
     while (fscanf(file, "%d|%499[^|]|%f|%d\n", &cart[numItemsInCart].productId, cart[numItemsInCart].name, &cart[numItemsInCart].price, &cart[numItemsInCart].quantity) == 4) {
         numItemsInCart++;
         if (numItemsInCart >= MAX_CART_ITEMS) {
