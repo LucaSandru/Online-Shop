@@ -121,14 +121,14 @@ void addProduct() {
     }
 
     Product newProduct;
-    newProduct.id = maxId + 1;  // Assign the new product ID
+    newProduct.id = maxId + 1; 
     printf("Enter product name: ");
     fgets(newProduct.name, MAX_NAME_LENGTH, stdin);
-    newProduct.name[strcspn(newProduct.name, "\n")] = 0;  // Remove newline character
+    newProduct.name[strcspn(newProduct.name, "\n")] = 0;  
 
     printf("Enter product description: ");
     fgets(newProduct.description, MAX_DESCRIPTION_LENGTH, stdin);
-    newProduct.description[strcspn(newProduct.description, "\n")] = 0;  // Remove newline character
+    newProduct.description[strcspn(newProduct.description, "\n")] = 0;
 
     printf("Enter product price: ");
     newProduct.price = getFloatInput();
@@ -158,7 +158,7 @@ void searchProducts() {
     if (choice == 1 || choice == 3) {
         printf("Enter product name to search: ");
         fgets(searchName, MAX_NAME_LENGTH, stdin);
-        searchName[strcspn(searchName, "\n")] = 0;  // Remove newline character
+        searchName[strcspn(searchName, "\n")] = 0;
     }
 
     if (choice == 2 || choice == 3) {
