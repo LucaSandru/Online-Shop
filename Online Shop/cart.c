@@ -73,10 +73,8 @@ void addToCart(int productId, int quantity) {
                     numItemsInCart++;
                 }
 
-                // Update the product stock
                 products[i].stock -= quantity;
 
-                // Check if stock is 0 and remove product if necessary
                 if (products[i].stock == 0) {
                     for (int j = i; j < numProducts - 1; j++) {
                         products[j] = products[j + 1];
@@ -86,10 +84,8 @@ void addToCart(int productId, int quantity) {
 
                 printf("Added %d units of product '%s' to cart.\n", quantity, products[i].name);
 
-                // Save the updated products list to file
                 saveProductsToFile();
 
-                // Save the updated cart to file
                 saveCartToFile();
                 return;
             }
