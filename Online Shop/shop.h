@@ -40,4 +40,4 @@ void seeProducts();
 void addProduct();
 void searchProducts();
 
-#endif // SHOP_H
+#endif
